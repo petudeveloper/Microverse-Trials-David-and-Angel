@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+body {
+  background-color: #8ca49d;
+  font-family: 'Source Code Pro', monospace;
+}
+
+#image {
+  width: 40%;
+}
+
+#img-caption {
+  font-weight: bolder;
+}
